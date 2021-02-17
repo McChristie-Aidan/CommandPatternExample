@@ -1,0 +1,13 @@
+C:\Users\Aidan\source\repos\AidanCommandPattern\AidanCommandPattern\bin\Debug\netcoreapp3.1\AidanCommandPattern.exe
+C:\Users\Aidan\source\repos\AidanCommandPattern\AidanCommandPattern\bin\Debug\netcoreapp3.1\AidanCommandPattern.deps.json
+C:\Users\Aidan\source\repos\AidanCommandPattern\AidanCommandPattern\bin\Debug\netcoreapp3.1\AidanCommandPattern.runtimeconfig.json
+C:\Users\Aidan\source\repos\AidanCommandPattern\AidanCommandPattern\bin\Debug\netcoreapp3.1\AidanCommandPattern.runtimeconfig.dev.json
+C:\Users\Aidan\source\repos\AidanCommandPattern\AidanCommandPattern\bin\Debug\netcoreapp3.1\AidanCommandPattern.dll
+C:\Users\Aidan\source\repos\AidanCommandPattern\AidanCommandPattern\bin\Debug\netcoreapp3.1\AidanCommandPattern.pdb
+C:\Users\Aidan\source\repos\AidanCommandPattern\AidanCommandPattern\obj\Debug\netcoreapp3.1\AidanCommandPattern.csprojAssemblyReference.cache
+C:\Users\Aidan\source\repos\AidanCommandPattern\AidanCommandPattern\obj\Debug\netcoreapp3.1\AidanCommandPattern.AssemblyInfoInputs.cache
+C:\Users\Aidan\source\repos\AidanCommandPattern\AidanCommandPattern\obj\Debug\netcoreapp3.1\AidanCommandPattern.AssemblyInfo.cs
+C:\Users\Aidan\source\repos\AidanCommandPattern\AidanCommandPattern\obj\Debug\netcoreapp3.1\AidanCommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\source\repos\AidanCommandPattern\AidanCommandPattern\obj\Debug\netcoreapp3.1\AidanCommandPattern.dll
+C:\Users\Aidan\source\repos\AidanCommandPattern\AidanCommandPattern\obj\Debug\netcoreapp3.1\AidanCommandPattern.pdb
+C:\Users\Aidan\source\repos\AidanCommandPattern\AidanCommandPattern\obj\Debug\netcoreapp3.1\AidanCommandPattern.genruntimeconfig.cache
